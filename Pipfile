@@ -25,6 +25,7 @@ boto3 = "*"
 arnparse = "*"
 structlog = "*"
 docker = "*"
+grimoirelab-toolkit = {git = "https://github.com/chaoss/grimoirelab-toolkit/", editable = true}
 
 [dev-packages]
 requests-mock = "*"
