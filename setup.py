@@ -20,7 +20,7 @@ setup(
 
     # Start with a small number and increase it with every change you make
     # https://semver.org
-    version='0.0.1',
+    version='0.1.0',
 
     # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     # For example: MIT
